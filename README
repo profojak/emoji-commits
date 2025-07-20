@@ -1,0 +1,52 @@
+
+                             Emoji Commits ⭐️📄🪲🧰
+                    Write great commit messages with emojis!
+
+                    🎨 [sprite] Make rubber ducks yellowish
+                    🚀 [physics] Remove unused ball bounces
+                    🧪 [ai] Check if chickens cross highway
+
+                         built with ❤︎ by Jakub Profota
+
+README
+
+               ⭐️ Add a new feature.
+               🎨 Style with code formatting, change colors, …
+               📄 Document with docs, comments, readmes, …
+               🚀 Refactor the code, improve memory usage, …
+               🪲 Fix a bug, an error, …
+               🧪 Test the project with unit tests, integration, …
+               🧰 Configure the environment, build system, …
+               🪣 Maintain the project with various chores.
+               🎉 Celebrate the initial commit, a release, …
+               🤝 Merge branches.
+
+                  emoji [optional scope] Commit message title
+
+  Start your commit message with an emoji from the table, corresponding to the
+  action you intend the commit to make.  If you are unsure, check if your commit
+  is atomic, or open an Issue and let's discuss!
+
+  Optionally, provide a scope with additional contextual information inside
+  `[ ]` brackets.  Unless the commit change is global or difficult to assign,
+  the  scope refers to a section of the project.  You set the rules.
+
+  Write a title of the commit.  Start with a verb in imperative, as if you
+  were giving an order.  Ommit `a`, `an`, `the` articles to save characters.
+  Capitalize the first letter and end without `.` period.  Try to keep the
+  title reasonably short.
+
+  Optionally, continue with a longer body.  Desribe the reasons and changes.
+  Prefer verbs in imperative, and fully qualified URLs to link to issues,
+  commits, etc.  Hard wrap the text to 72 characters, but do not wrap atypical
+  text such as URLs, code, terminal output, etc.
+
+  Optionally, end with a trailer footer.  List each trailer on a separate line.
+  Separate keys from values with `:` colon and a single space.
+
+WEBSITE
+
+  Visit the repository on GitHub for the latest and greatest:
+
+    https://github.com/profojak/emoji-commits
+
