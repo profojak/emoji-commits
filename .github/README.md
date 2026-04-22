@@ -77,6 +77,11 @@
     <td>Handle code merges or resolve conflicts.</td>
   </tr>
   <tr>
+    <td>✂️</td>
+    <td>Revert</td>
+    <td>Roll back changes, restore previous state.</td>
+  </tr>
+  <tr>
     <td>🚧</td>
     <td>Snapshot</td>
     <td>Mark as incomplete work in progress.</td>
